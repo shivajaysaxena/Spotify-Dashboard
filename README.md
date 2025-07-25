@@ -61,9 +61,7 @@ The dataset includes the following key features:
 
 6. **Customize and Extend**: Feel free to customize and extend the dashboard according to your preferences and analysis needs.
 
-## Contributors
 
-- [Your Name](https://github.com/your-username) - Project Lead & Developer
 
 ## License
 
